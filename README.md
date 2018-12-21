@@ -1,2 +1,2 @@
 # Python_Tutorial
-Examples of the Python programming language structure
+Exemplos de estrutra da linguagem de programção Python
